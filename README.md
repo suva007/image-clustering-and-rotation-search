@@ -11,7 +11,7 @@
 
 # Features
 ## 1. Group Images
-In a group of images that contains SRK and KRK images, it might be sometime very difficult to group them similar images together.
+In a group of images that contains SRK and KRK images, it might be sometime very difficult to group the similar images together.
 
 ![image](https://github.com/suva007/image-clustering-and-rotation-search/assets/38084433/99e5b65b-50b3-4f5d-8e7b-ce7c36b9dea0)
 
